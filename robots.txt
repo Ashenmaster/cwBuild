@@ -1,4 +1,4 @@
-Sitemap: https://github.com/Ashenmaster/cwBuild/sitemap.xml
+Sitemap: https://ashenmaster.github.io/cwBuild//sitemap.xml
 
 # Allow crawling of all content
 User-agent: *
