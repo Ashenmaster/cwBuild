@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/evocode/metalsmith-base/blog/test-post</loc>
+    <loc>https://github.com/Ashenmaster/cwBuild/blog/test-post</loc>
     <lastmod>2015-11-01</lastmod>
   </url>
   <url>
-    <loc>https://github.com/evocode/metalsmith-base/</loc>
+    <loc>https://github.com/Ashenmaster/cwBuild/</loc>
     <lastmod>2017-12-15</lastmod>
   </url>
   <url>
-    <loc>https://github.com/evocode/metalsmith-base/blog/</loc>
+    <loc>https://github.com/Ashenmaster/cwBuild/blog/</loc>
     <lastmod>2017-12-15</lastmod>
   </url>
 </urlset>
